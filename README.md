@@ -6,6 +6,6 @@ Okoa Life is a groundbreaking solution that leverages blockchain technology and 
 
 ## Video Demo
 
-[![Okoa Life Video](url_to_your_video_thumbnail)](url_to_your_video)
+[![Okoa Life Video](url_to_your_video_thumbnail)](https://www.youtube.com/watch?v=reKRDxPBuj0)
 
 The business model includes selling the system to disaster management organizations, partnering with insurance companies, and offering subscription-based premium features. Join us in shaping the future of disaster response, where Okoa Life aims to be the global standard, saving lives and enhancing community resilience.
